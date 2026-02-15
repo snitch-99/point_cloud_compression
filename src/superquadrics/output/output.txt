@@ -1,0 +1,24 @@
+=== Superquadric Fitting Results ===
+
+1. Superquadric Parameters:
+   ax: 1.621836
+   ay: 1.474355
+   az: 0.250115
+   e1: 0.724621
+   e2: 0.782231
+
+2. Point Cloud Statistics:
+   Total Points: 465760
+   Surface Inliers (<10cm): 216057
+   Deviation Outliers: 249703
+
+3. Oriented Bounding Box:
+   Center: [5.347438, -3.536853, 0.472040]
+   Extent: [3.827102, 3.360456, 0.696755]
+
+4. PCA Analysis:
+   Eigenvalues: [0.91899617 0.84141795 0.02171591]
+   Eigenvectors (Columns):
+[[ 0.95574932  0.2881659   0.05919161]
+ [ 0.28699564 -0.95753457  0.02758709]
+ [ 0.06462767 -0.00937861 -0.99786537]]
